@@ -1,0 +1,29 @@
+@media screen and (max-width:1352px) {
+    .parcour-icons-container {
+        position: relative;
+        top: 0;
+        left: -0.1vw;
+      }
+
+    /*** services */
+
+    .service-icons {
+        border: 2px solid var(--hover-color);
+        padding: 2rem;
+        background-color: var(--second-bg-color);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 15vh;
+        width: 7.5vw;
+        border-radius: 50%;
+        position: relative;
+        color: var(--hover-color);
+        box-shadow: var(--box-shadow-service);
+        outline: 3px solid var(--second-bg-color);
+      }
+}
+
+@media  screen and (max-width:1300px) {
+   
+}
